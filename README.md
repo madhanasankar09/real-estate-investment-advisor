@@ -31,3 +31,5 @@ This project predicts whether a property is a **good investment** and estimates 
 4. MLflow Experiment Tracking  
 5. Streamlit Web App Deployment  
 
+Dataset not included due to size.
+Run train_model.py to generate cleaned_data.csv and model files.
